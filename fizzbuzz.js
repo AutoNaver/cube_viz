@@ -13,4 +13,4 @@ function fizzbuzz(n) {
     return result;
   }  
 
-fizzbuzz(35); // Call the function with input 15
+fizzbuzz(50); // Call the function with input 15

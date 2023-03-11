@@ -1,0 +1,9 @@
+How to donut
+
+You need gcc (GNU something Linux installer, run in bash)
+
+1. create .c file with donut c code
+
+2. gcc -p donut donut.c -lm #This creates a .exe file that allows to run the program 
+
+3. run exe with ./donut
